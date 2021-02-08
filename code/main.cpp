@@ -18,7 +18,7 @@
 #include "raylib.h"
 #include "utils.hpp"
 
-// #include "Game.hpp"
+#include "Game.hpp"
 
 
 void setup_working_directory()
@@ -41,12 +41,12 @@ int main(int, char**)
 {
     setup_working_directory();
 
-    // Game game;
+    Game game;
 
-    // if(game.init("Raystart", 640, 480, 1, false))
-    // {
-    //     game.run();
-    // }
+    if(game.init("Raystart", 640, 480, 1, false))
+    {
+        game.run();
+    }
 
     return 0;
 }

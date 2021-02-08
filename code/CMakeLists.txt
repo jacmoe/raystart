@@ -16,10 +16,10 @@
 set(TARGET_NAME raystart)
 
 set(main
-    # ./main/Application.cpp
-    # ./main/Application.hpp
-    # ./main/Game.cpp
-    # ./main/Game.hpp
+    ./main/Application.cpp
+    ./main/Application.hpp
+    ./main/Game.cpp
+    ./main/Game.hpp
 )
 
 set(utility
