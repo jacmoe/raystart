@@ -9,7 +9,7 @@
 #
 #   https://github.com/jacmoe/raystart
 #
-#   (c) 2020 - 2021 Jacob Moena
+#   (c) 2021 Jacob Moena
 #
 #   MIT License
 #
