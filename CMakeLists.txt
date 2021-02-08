@@ -7,7 +7,7 @@
 # ╚═╝     ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝  ╚═════╝ ╚══════╝╚═╝     
 #   project
 #
-#   https://github.com/jacmoe/pxlwolf
+#   https://github.com/jacmoe/raystart
 #
 #   (c) 2020 - 2021 Jacob Moena
 #
